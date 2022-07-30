@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Jubran</h1>
-<h2 align="center">Learning to become A Full-Stack Developer</h2>
+<h3 align="center">Learning to become A Full-Stack Developer</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
