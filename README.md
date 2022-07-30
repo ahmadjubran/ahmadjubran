@@ -16,5 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadjubran&show_icons=true&locale=en&layout=compact" alt="ahmadjubran" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadjubran&show_icons=true&locale=en" alt="ahmadjubran" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadjubran&theme=default" alt="ahmadjubran" /></p>
