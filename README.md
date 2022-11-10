@@ -68,6 +68,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ahmadjubran/ahmadjubran/blob/output/snake.svg" alt="Snake animation" />
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 ###
